@@ -50,8 +50,9 @@ because I think this is likely under-studied and under-recognized.
 
 # Are you a researcher?
 
-If you're a researcher, I'd also love to talk with you! You can contact
-me at [jmaslak@antelope.net](mailto:jmaslak@antelope.net)
+If you're a researcher in a field relevant to this, I'd also love
+to talk with you! You can contact me at
+[jmaslak@antelope.net](mailto:jmaslak@antelope.net)
 
 I'd particularly love to collaborate and design a scientifically valid
 test for this particular processing difficulty.  I have a software
