@@ -35,11 +35,11 @@ The answer key is also linked below.  Try listening to the tones first!
 
 # Tones
 
- * [Tone set 1](a.wav) - [Answer](a.md)
- * [Tone set 2](b.wav) - [Answer](b.md)
- * [Tone set 3](c.wav) - [Answer](c.md)
+ * \[[Listen to tone set 1](https://files.antelope.net/index.php/s/yC6LpZkzGCPjzPx)\] - \[[SPOILER Answer](a.md)\]
+ * \[[Listen to tone set 2](https://files.antelope.net/index.php/s/g9Dkk4YAEfKFXws)\] - \[[SPOILER Answer](b.md)\]
+ * \[[Listen to tone set 3](https://files.antelope.net/index.php/s/p8dZ6E6kqoGB4sn)\] - \[[SPOILER Answer](c.md)\]
 
-# This is hard!
+# Was it difficult for you?
 
 If this is hard for you to do (at least once you figure out the
 instructions!), I'd love to hear from you - You can contact me at
